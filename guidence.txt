@@ -1,0 +1,6 @@
+libraries:
+pnpm add xlsx papaparse
+pnpm add jspdf html2canvas
+pnpm add sonner
+npx shadcn-ui@latest add tabs
+
